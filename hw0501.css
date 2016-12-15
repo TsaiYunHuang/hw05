@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    color:white;
+   
+    
+}
+
+div {
+	padding: 2%;
+}
+
+.header{
+    background: lightblue;
+    width: 100%;
+    height: 30px;
+	  line-height: 30px;
+}
+
+.nav{
+    background: gold;
+    width: 100%;
+    height: 20px;
+    
+}
+
+.sidebar{
+    background: blue;
+    width: 25%;
+    height: 500px;
+    float: left;
+	  line-height:500px;
+}
+
+.main{
+    background: lightgreen;
+    height: 500px;
+	 line-height:500px;
+}
+
+.footer{
+    background: #ff6200;
+    width: 100%;
+    height: 40px;
+	 line-height: 40px;
+}
